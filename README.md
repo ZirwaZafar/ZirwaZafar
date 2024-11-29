@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🖐, I'm Zirwa Zafar</h1> 
-<h3 align="center">AI | ML | Modern JavaScript Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Zirwa Zafar</h1> 
+<h3 align="center"> AI Developer</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
