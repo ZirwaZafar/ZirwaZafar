@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖐, I'm Zirwa Zafar</h1> 
-<h3 align="center">AI|ML|MODERNJAVASCRIPT</h3>
+<h3 align="center">AI | ML | Modern JavaScript Enthusiast</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -86,6 +86,6 @@
 
 ### Contact Me:
 - GitHub: [Zirwa GitHub](https://github.com/ZirwaZafar)
-- Email: zriiii@example.com
+- Email: zirwa@example.com  
 
 Thanks for visiting my space! 🌟
