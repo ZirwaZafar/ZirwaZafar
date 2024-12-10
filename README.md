@@ -70,8 +70,8 @@
 </p>
 
 ### Contact Me:
-- GitHub: [Zirwa GitHub](https://github.com/ZirwaZafar)
-- Email: zirwa@example.com
-- https://www.instagram.com/me.zirwa?igsh=YzljYTk1ODg3Zg==
+- GitHub: [GitHub App](https://github.com/ZirwaZafar)
+- Email: [Email App](mailto:zirwa@example.com)
+- Instagram: [Instagram App](https://www.instagram.com/me.zirwa?igsh=YzljYTk1ODg3Zg==)
 
 Thanks for visiting my space! 🌟
