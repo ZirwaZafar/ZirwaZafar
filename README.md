@@ -70,8 +70,16 @@
 </p>
 
 ### Contact Me:
-- GitHub: [GitHub App](https://github.com/ZirwaZafar)
-- Email: [Email App](mailto:zirwa@example.com)
-- Instagram: [Instagram App](https://www.instagram.com/me.zirwa?igsh=YzljYTk1ODg3Zg==)
+<p align="left">
+  <a href="https://github.com/ZirwaZafar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/GitHub_Logo_2018.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="mailto:zirwa@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Email_icon_2.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/me.zirwa?igsh=YzljYTk1ODg3Zg==" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 Thanks for visiting my space! 🌟
