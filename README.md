@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🖐, I'm Zirwa Zafar 🧸</h1> 
 <h3 align="center"> ✈ AI 🎋 Developer 🕯</h3>
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ZirwaZafar&theme=onedark" alt="Zirwa Zafar" />
@@ -78,6 +79,14 @@
   </a>
   <a href="https://www.instagram.com/me.zirwa?igsh=YzljYTk1ODg3Zg==" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
+
+### View My Achievements:
+<p align="center">
+  <a href="YOUR_CERTIFICATE_URL" target="_blank">
+    <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Certificate" width="40" height="40"/> 
+    View My Achievements
   </a>
 </p>
 
