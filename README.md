@@ -1,6 +1,11 @@
 <h1 align="center">Hi 🖐, I'm Zirwa Zafar 🧸</h1> 
 <h3 align="center"> ✈ AI 🎋 Developer 🕯</h3>
-
+<p align="center">
+  <a href="URL_OF_YOUR_CERTIFICATE" target="_blank">
+    <img src="YOUR_CERTIFICATE_IMAGE_URL" alt="Certificate" width="40" height="40"/>
+    View My Achievements
+  </a>
+</p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ZirwaZafar&theme=onedark" alt="Zirwa Zafar" />
